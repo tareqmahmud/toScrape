@@ -1,4 +1,4 @@
-Title,Product Type,Category,Price Include Tax(£),Price Exclude Tax(£),Tax(£),Availability,Rating,Reviews,UPC
+Title,Product Type,Category,Price(Include Tax),Price(Exclude Tax),Tax,Total Availability,Rating,Total Review,UPC
 A Light in the Attic,Books,Poetry,51.77,51.77,0.00,22,3,0,a897fe39b1053632
 Tipping the Velvet,Books,Historical Fiction,53.74,53.74,0.00,20,1,0,90fa61229261140a
 Soumission,Books,Fiction,50.10,50.10,0.00,20,1,0,6957f44c3847a760
